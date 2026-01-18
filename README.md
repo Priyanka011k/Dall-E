@@ -46,20 +46,6 @@ Users can generate images using text prompts, store them securely, and explore a
 
 ---
 
-## 📂 Folder Structure
-```bash
-DALLE_clone/
-├── client/          # React frontend
-│   ├── src/
-│   └── tailwind.config.js
-│
-├── server/          # Node + Express backend
-│   ├── routes/
-│   ├── models/
-│   └── index.js
-│
-└── README.md
-
 
 
  🧠 What I Learned
@@ -83,7 +69,6 @@ Aspiring MERN Stack Developer
 🔗 LinkedIn: https://www.linkedin.com/in/priyanka-vishwakarma-9b8974280
 
 
-## 🌐 Live Demo
-Frontend: https://dall-e-ypu5.vercel.app
+
 
 

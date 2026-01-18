@@ -61,30 +61,28 @@ DALLE_clone/
 └── README.md
 
 
----
 
-## 🧠 What I Learned
+ 🧠 What I Learned
 
-- Integrating third-party AI APIs
+ Integrating third-party AI APIs
 
-- Secure handling of environment variables
+ Secure handling of environment variables
 
-- Cloud image storage and optimization
+ Cloud image storage and optimization
 
-- Full-stack application architecture
+ Full-stack application architecture
 
-- REST API design and MongoDB modeling
+ REST API design and MongoDB modeling
 
-- Building scalable React UI with Tailwind
+ Building scalable React UI with Tailwind
 
----
-##👩‍💻 Author
+👩‍💻 Author
 
 Priyanka Vishwakarma
 Aspiring MERN Stack Developer
 🔗 LinkedIn: https://www.linkedin.com/in/priyanka-vishwakarma-9b8974280
 
----
+
 ## 🌐 Live Demo
 Frontend: https://dall-e-ypu5.vercel.app
 
